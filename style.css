@@ -44,7 +44,7 @@
 
     background-color: transparent;
     z-index: 99;
-    transform: translateX(35%);
+    transform: translateX(100%);
     width: 100vw;
     background-color: var(--Off-white);
 }
