@@ -1,7 +1,7 @@
 const nav_mobile = document.querySelector('.open')
 const cancel = document.querySelector('.cancel')
 const mobile_container = document.querySelector('.mobile-container')
-let bool = true
+let bool = false
 function active() {
     mobile_container.style.transform = 'translateX(35%)'
     mobile_container.style.boxShadow = '0 0 0 10000px rgba(0,0,0,.50)'
